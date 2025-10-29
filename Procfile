@@ -1,0 +1,1 @@
+web: gunicorn praxis_advisor:app
